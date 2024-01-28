@@ -20,6 +20,6 @@ let urls = ["comment pages/comment1.html",
     "comment pages/comment20.html"]
 
 // Send a message to the background script
-chrome.runtime.sendMessage({ type: "createTab", url: urls[Math.floor(Math.random() * 6)] }, function (response) {
+chrome.runtime.sendMessage({ type: "createTab", url: urls[Math.floor(Math.random() * 22)] }, function (response) {
     console.log(response);
 });
