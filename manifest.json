@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Asian Tiger Mom",
-  "description": "Your personal asian tiger mom who helps you stop procrastinating.",
+  "name": "Tiger Mom",
+  "description": "Your personal tiger mom who helps you stop procrastinating.",
   "version": "1.0",
   "action": {
     "default_icon": {
